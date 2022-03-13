@@ -9,36 +9,12 @@
       "id": 1
     },
     {
-      "nombre": "Herón",
-      "empresa": "ChandalaStudios",
-      "email": "pepetron@pepetron.com",
-      "telefono": "1234567898",
-      "notas": "Cliente recomendado por otro",
-      "id": 2
-    },
-    {
       "nombre": "Nina",
       "empresa": "Bolitas de Nuez",
       "email": "nina@bolitas.com",
       "telefono": "",
       "notas": "",
       "id": 3
-    },
-    {
-      "nombre": "Karen",
-      "empresa": "Karen Diseño",
-      "email": "karen@karen.com",
-      "telefono": "23453564768",
-      "notas": "Naranjas",
-      "id": 4
-    },
-    {
-      "nombre": "Pamela",
-      "empresa": "Bolitas de Nuez",
-      "email": "pam@bolitas.com",
-      "telefono": "6598034754",
-      "notas": "Más bolitas",
-      "id": 5
     }
   ]
 }
